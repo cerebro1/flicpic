@@ -1,4 +1,4 @@
-FUN WITH PYTHON : FLICPIC
+#1 FUN WITH PYTHON : FLICPIC
 script to fetch the url of photos from the website.
 
 Prerequistes:
